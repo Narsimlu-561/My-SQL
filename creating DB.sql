@@ -1,0 +1,5 @@
+CREATE DATABASE college;
+CREATE DATABASE xyz_company;
+
+CREATE DATABASE abc;
+DROP DATABASE abc;
